@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    float a = 98.9;
+    cout<< "final marks of praveen = " << a << endl;
+    return 0;
+    
+}
+//https://github.com/praveenkumar9767/cpp-float-pragramm//
